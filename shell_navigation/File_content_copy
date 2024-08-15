@@ -1,0 +1,11 @@
+touch original_file copied_file
+echo 'FIRST LINE' > original_file
+echo 'SECOND LINE
+·	Create two files original_file and copied_file
+·	Write into the first line of the file original_file
+·	Append the file with ten more paragraph
+·	Copy the content of the file original_file into the file copied_file
+·	Create a new file File_content_copy
+·	Write the command used for the operation into the created file
+
+' >> original_file

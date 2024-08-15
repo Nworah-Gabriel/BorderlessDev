@@ -1,0 +1,2 @@
+touch file_to_be_kept file_to_be_deleted
+rm file_to_be_deleted

@@ -1,0 +1,2 @@
+touch old_file
+mv old_file new_file

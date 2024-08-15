@@ -1,0 +1,2 @@
+cp file_to_be_kept ../
+touch file_copy_command
